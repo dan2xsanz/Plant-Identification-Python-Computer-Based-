@@ -1,0 +1,5 @@
+Convert UI
+pyuic5.exe test.ui -o app.py
+
+Convert qrc 
+pyrcc5 Image.qrc -o Image.py

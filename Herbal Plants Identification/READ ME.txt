@@ -1,0 +1,6 @@
+INSTALL ANACONDA ONLY IN ORDER TO HAVE THE SAME VERSION WITH PYTHON
+
+install tensorflow
+install pyqt5
+install cv2
+instal PIL (for image load if necessary)

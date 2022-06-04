@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="img1">
+    <file>translating.png</file>
+    <file>bg.png</file>
+    <file>unnamed_removebg_preview.png</file>
+    <file>info.gif</file>
+    <file>classs.png</file>
+    <file>gallery.png</file>
+    <file>photo-captureD.png</file>
+    <file>locate.png</file>
+    <file>loading_leaf_circle.gif</file>
+  </qresource>
+</RCC>
